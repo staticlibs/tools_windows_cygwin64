@@ -1,0 +1,262 @@
+2015/09/10 12:13:56 Starting cygwin install, version 2.871
+2015/09/10 12:13:56 User has backup/restore rights
+2015/09/10 12:13:56 io_stream_cygfile: fopen(/etc/setup/setup.rc) failed 2 No such file or directory
+2015/09/10 12:13:56 Current Directory: E:\winjdk8
+2015/09/10 12:13:56 Could not open service McShield for query, start and stop. McAfee may not be installed, or we don't have access.
+2015/09/10 12:14:07 source: network install
+2015/09/10 12:14:13 root: C:\cygwin64 system
+2015/09/10 12:14:28 Selected local directory: E:\winjdk8\cygwin_packages
+2015/09/10 12:14:31 net: Direct
+2015/09/10 12:14:53 site: http://mirrors.kernel.org/sourceware/cygwin/
+2015/09/10 12:14:58 io_stream_cygfile: fopen(/etc/setup/installed.db) failed 2 No such file or directory
+2015/09/10 12:14:59 io_stream_cygfile: fopen(/etc/setup/timestamp) failed 2 No such file or directory
+2015/09/10 12:21:04 Adding required dependency bzip2: Selecting version 1.0.6-2 for installation.
+2015/09/10 12:21:04 Adding required dependency ca-certificates: Selecting version 2.5-1 for installation.
+2015/09/10 12:21:04 Adding required dependency groff: Selecting version 1.22.3-1 for installation.
+2015/09/10 12:21:04 Adding required dependency less: Selecting version 471-1 for installation.
+2015/09/10 12:21:04 Adding required dependency libargp: Selecting version 20110921-2 for installation.
+2015/09/10 12:21:04 Adding required dependency libattr1: Selecting version 2.4.46-1 for installation.
+2015/09/10 12:21:04 Adding required dependency libblkid1: Selecting version 2.25.2-2 for installation.
+2015/09/10 12:21:04 Adding required dependency libbz2_1: Selecting version 1.0.6-2 for installation.
+2015/09/10 12:21:04 Adding required dependency libffi6: Selecting version 3.2.1-1 for installation.
+2015/09/10 12:21:04 Adding required dependency libgcc1: Selecting version 4.9.3-1 for installation.
+2015/09/10 12:21:04 Adding required dependency libgdbm4: Selecting version 1.11-1 for installation.
+2015/09/10 12:21:04 Adding required dependency libgmp10: Selecting version 6.0.0a-2 for installation.
+2015/09/10 12:21:04 Adding required dependency libiconv: Selecting version 1.14-3 for installation.
+2015/09/10 12:21:04 Adding required dependency libiconv2: Selecting version 1.14-3 for installation.
+2015/09/10 12:21:04 Adding required dependency libintl8: Selecting version 0.19.4-1 for installation.
+2015/09/10 12:21:04 Adding required dependency liblzma5: Selecting version 5.2.1-1 for installation.
+2015/09/10 12:21:04 Adding required dependency libmpfr4: Selecting version 3.1.3-1 for installation.
+2015/09/10 12:21:04 Adding required dependency libncursesw10: Selecting version 5.9-20150530-1 for installation.
+2015/09/10 12:21:04 Adding required dependency libp11-kit0: Selecting version 0.22.1-1 for installation.
+2015/09/10 12:21:04 Adding required dependency libpcre1: Selecting version 8.37-2 for installation.
+2015/09/10 12:21:04 Adding required dependency libpipeline1: Selecting version 1.4.0-1 for installation.
+2015/09/10 12:21:04 Adding required dependency libpopt0: Selecting version 1.16-1 for installation.
+2015/09/10 12:21:04 Adding required dependency libsigsegv2: Selecting version 2.10-2 for installation.
+2015/09/10 12:21:04 Adding required dependency libsmartcols1: Selecting version 2.25.2-2 for installation.
+2015/09/10 12:21:04 Adding required dependency libstdc++6: Selecting version 4.9.3-1 for installation.
+2015/09/10 12:21:04 Adding required dependency libtasn1_6: Selecting version 4.5-1 for installation.
+2015/09/10 12:21:04 Adding required dependency libuuid1: Selecting version 2.25.2-2 for installation.
+2015/09/10 12:21:04 Adding required dependency lynx: Selecting version 2.8.7-2 for installation.
+2015/09/10 12:21:04 Adding required dependency p11-kit: Selecting version 0.22.1-1 for installation.
+2015/09/10 12:21:04 Adding required dependency p11-kit-trust: Selecting version 0.22.1-1 for installation.
+2015/09/10 12:21:04 Adding required dependency popt: Selecting version 1.16-1 for installation.
+2015/09/10 12:21:04 Adding required dependency xz: Selecting version 5.2.1-1 for installation.
+2015/09/10 12:21:04 Adding required dependency zlib0: Selecting version 1.2.8-3 for installation.
+2015/09/10 12:21:04 Adding required dependency _update-info-dir: Selecting version 00469-1 for installation.
+2015/09/10 12:21:04 Downloaded E:\winjdk8\cygwin_packages/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/_autorebase/_autorebase-001002-1.tar.xz
+2015/09/10 12:21:05 Downloaded E:\winjdk8\cygwin_packages/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/_update-info-dir/_update-info-dir-00469-1.tar.bz2
+2015/09/10 12:21:06 Downloaded E:\winjdk8\cygwin_packages/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/alternatives/alternatives-1.3.30c-10.tar.bz2
+2015/09/10 12:21:07 Downloaded E:\winjdk8\cygwin_packages/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/base-cygwin/base-cygwin-3.8-1.tar.xz
+2015/09/10 12:21:08 Downloaded E:\winjdk8\cygwin_packages/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/base-files/base-files-4.2-3.tar.xz
+2015/09/10 12:21:14 Downloaded E:\winjdk8\cygwin_packages/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/bash/bash-4.3.42-3.tar.xz
+2015/09/10 12:21:23 Downloaded E:\winjdk8\cygwin_packages/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/binutils/binutils-2.25-1.tar.xz
+2015/09/10 12:21:23 Downloaded E:\winjdk8\cygwin_packages/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/bzip2/bzip2-1.0.6-2.tar.bz2
+2015/09/10 12:21:26 Downloaded E:\winjdk8\cygwin_packages/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/ca-certificates/ca-certificates-2.5-1.tar.xz
+2015/09/10 12:21:32 Downloaded E:\winjdk8\cygwin_packages/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/coreutils/coreutils-8.24-3.tar.xz
+2015/09/10 12:21:34 Downloaded E:\winjdk8\cygwin_packages/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/cpio/cpio-2.11-3.tar.xz
+2015/09/10 12:21:35 Downloaded E:\winjdk8\cygwin_packages/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/cygutils/cygutils-1.4.14-1.tar.bz2
+2015/09/10 12:21:41 Downloaded E:\winjdk8\cygwin_packages/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/cygwin/cygwin-2.2.1-1.tar.xz
+2015/09/10 12:21:42 Downloaded E:\winjdk8\cygwin_packages/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/dash/dash-0.5.8-3.tar.xz
+2015/09/10 12:21:42 Downloaded E:\winjdk8\cygwin_packages/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/editrights/editrights-1.03-1.tar.xz
+2015/09/10 12:21:45 Downloaded E:\winjdk8\cygwin_packages/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/file/file-5.24-1.tar.xz
+2015/09/10 12:21:48 Downloaded E:\winjdk8\cygwin_packages/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/findutils/findutils-4.5.12-1.tar.xz
+2015/09/10 12:21:52 Downloaded E:\winjdk8\cygwin_packages/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/gawk/gawk-4.1.3-1.tar.xz
+2015/09/10 12:21:52 Downloaded E:\winjdk8\cygwin_packages/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/getent/getent-2.18.90-4.tar.xz
+2015/09/10 12:21:55 Downloaded E:\winjdk8\cygwin_packages/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/grep/grep-2.21-2.tar.xz
+2015/09/10 12:22:02 Downloaded E:\winjdk8\cygwin_packages/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/groff/groff-1.22.3-1.tar.xz
+2015/09/10 12:22:03 Downloaded E:\winjdk8\cygwin_packages/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/gzip/gzip-1.6-1.tar.xz
+2015/09/10 12:22:04 Downloaded E:\winjdk8\cygwin_packages/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/hostname/hostname-3.13-1.tar.bz2
+2015/09/10 12:22:07 Downloaded E:\winjdk8\cygwin_packages/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/texinfo/info/info-6.0-1.tar.xz
+2015/09/10 12:22:07 Downloaded E:\winjdk8\cygwin_packages/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/ipc-utils/ipc-utils-1.0-2.tar.bz2
+2015/09/10 12:22:09 Downloaded E:\winjdk8\cygwin_packages/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/less/less-471-1.tar.xz
+2015/09/10 12:22:10 Downloaded E:\winjdk8\cygwin_packages/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/libargp/libargp-20110921-2.tar.bz2
+2015/09/10 12:22:10 Downloaded E:\winjdk8\cygwin_packages/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/attr/libattr1/libattr1-2.4.46-1.tar.bz2
+2015/09/10 12:22:12 Downloaded E:\winjdk8\cygwin_packages/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/util-linux/libblkid1/libblkid1-2.25.2-2.tar.xz
+2015/09/10 12:22:13 Downloaded E:\winjdk8\cygwin_packages/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/bzip2/libbz2_1/libbz2_1-1.0.6-2.tar.bz2
+2015/09/10 12:22:14 Downloaded E:\winjdk8\cygwin_packages/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/libffi/libffi6/libffi6-3.2.1-1.tar.xz
+2015/09/10 12:22:15 Downloaded E:\winjdk8\cygwin_packages/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/gcc/libgcc1/libgcc1-4.9.3-1.tar.xz
+2015/09/10 12:22:16 Downloaded E:\winjdk8\cygwin_packages/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/gdbm/libgdbm4/libgdbm4-1.11-1.tar.xz
+2015/09/10 12:22:18 Downloaded E:\winjdk8\cygwin_packages/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/gmp/libgmp10/libgmp10-6.0.0a-2.tar.xz
+2015/09/10 12:22:19 Downloaded E:\winjdk8\cygwin_packages/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/libiconv/libiconv-1.14-3.tar.xz
+2015/09/10 12:22:22 Downloaded E:\winjdk8\cygwin_packages/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/libiconv/libiconv2/libiconv2-1.14-3.tar.xz
+2015/09/10 12:22:23 Downloaded E:\winjdk8\cygwin_packages/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/gettext/libintl8/libintl8-0.19.4-1.tar.xz
+2015/09/10 12:22:24 Downloaded E:\winjdk8\cygwin_packages/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/xz/liblzma5/liblzma5-5.2.1-1.tar.xz
+2015/09/10 12:22:26 Downloaded E:\winjdk8\cygwin_packages/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/mpfr/libmpfr4/libmpfr4-3.1.3-1.tar.xz
+2015/09/10 12:22:28 Downloaded E:\winjdk8\cygwin_packages/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/ncurses/libncursesw10/libncursesw10-5.9-20150530-1.tar.xz
+2015/09/10 12:22:32 Downloaded E:\winjdk8\cygwin_packages/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/openssl/libopenssl100/libopenssl100-1.0.2d-1.tar.xz
+2015/09/10 12:22:33 Downloaded E:\winjdk8\cygwin_packages/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/p11-kit/libp11-kit0/libp11-kit0-0.22.1-1.tar.xz
+2015/09/10 12:22:35 Downloaded E:\winjdk8\cygwin_packages/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/pcre/libpcre1/libpcre1-8.37-2.tar.xz
+2015/09/10 12:22:35 Downloaded E:\winjdk8\cygwin_packages/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/libpipeline/libpipeline1/libpipeline1-1.4.0-1.tar.xz
+2015/09/10 12:22:36 Downloaded E:\winjdk8\cygwin_packages/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/popt/libpopt0/libpopt0-1.16-1.tar.xz
+2015/09/10 12:22:38 Downloaded E:\winjdk8\cygwin_packages/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/readline/libreadline7/libreadline7-6.3.8-1.tar.xz
+2015/09/10 12:22:38 Downloaded E:\winjdk8\cygwin_packages/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/libsigsegv/libsigsegv2/libsigsegv2-2.10-2.tar.xz
+2015/09/10 12:22:39 Downloaded E:\winjdk8\cygwin_packages/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/util-linux/libsmartcols1/libsmartcols1-2.25.2-2.tar.xz
+2015/09/10 12:22:41 Downloaded E:\winjdk8\cygwin_packages/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/gcc/libstdc++6/libstdc++6-4.9.3-1.tar.xz
+2015/09/10 12:22:42 Downloaded E:\winjdk8\cygwin_packages/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/libtasn1/libtasn1_6/libtasn1_6-4.5-1.tar.xz
+2015/09/10 12:22:43 Downloaded E:\winjdk8\cygwin_packages/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/util-linux/libuuid1/libuuid1-2.25.2-2.tar.xz
+2015/09/10 12:22:44 Downloaded E:\winjdk8\cygwin_packages/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/login/login-1.11-1.tar.xz
+2015/09/10 12:22:49 Downloaded E:\winjdk8\cygwin_packages/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/lynx/lynx-2.8.7-2.tar.bz2
+2015/09/10 12:22:51 Downloaded E:\winjdk8\cygwin_packages/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/m4/m4-1.4.17-2.tar.xz
+2015/09/10 12:22:54 Downloaded E:\winjdk8\cygwin_packages/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/man-db/man-db-2.7.1-1.tar.xz
+2015/09/10 12:22:56 Downloaded E:\winjdk8\cygwin_packages/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/mintty/mintty-2.1.5-0.tar.xz
+2015/09/10 12:22:59 Downloaded E:\winjdk8\cygwin_packages/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/openssl/openssl-1.0.2d-1.tar.xz
+2015/09/10 12:23:00 Downloaded E:\winjdk8\cygwin_packages/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/p11-kit/p11-kit-0.22.1-1.tar.xz
+2015/09/10 12:23:02 Downloaded E:\winjdk8\cygwin_packages/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/p11-kit/p11-kit-trust/p11-kit-trust-0.22.1-1.tar.xz
+2015/09/10 12:23:03 Downloaded E:\winjdk8\cygwin_packages/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/popt/popt-1.16-1.tar.xz
+2015/09/10 12:23:04 Downloaded E:\winjdk8\cygwin_packages/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/procps/procps-3.2.8-3.tar.xz
+2015/09/10 12:23:06 Downloaded E:\winjdk8\cygwin_packages/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/rebase/rebase-4.4.1-1.tar.bz2
+2015/09/10 12:23:08 Downloaded E:\winjdk8\cygwin_packages/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/run/run-1.3.4-2.tar.xz
+2015/09/10 12:23:10 Downloaded E:\winjdk8\cygwin_packages/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/sed/sed-4.2.2-3.tar.bz2
+2015/09/10 12:23:13 Downloaded E:\winjdk8\cygwin_packages/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/tar/tar-1.28-1.tar.xz
+2015/09/10 12:23:14 Downloaded E:\winjdk8\cygwin_packages/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/ncurses/terminfo/terminfo-5.9-20150530-1.tar.xz
+2015/09/10 12:23:16 Downloaded E:\winjdk8\cygwin_packages/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/tzcode/tzcode-2015f-1.tar.xz
+2015/09/10 12:23:18 Downloaded E:\winjdk8\cygwin_packages/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/unzip/unzip-6.0-14.tar.xz
+2015/09/10 12:23:24 Downloaded E:\winjdk8\cygwin_packages/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/util-linux/util-linux-2.25.2-2.tar.xz
+2015/09/10 12:23:27 Downloaded E:\winjdk8\cygwin_packages/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/vim/vim-minimal/vim-minimal-7.4.838-1.tar.xz
+2015/09/10 12:23:28 Downloaded E:\winjdk8\cygwin_packages/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/which/which-2.20-2.tar.bz2
+2015/09/10 12:23:30 Downloaded E:\winjdk8\cygwin_packages/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/xz/xz-5.2.1-1.tar.xz
+2015/09/10 12:23:32 Downloaded E:\winjdk8\cygwin_packages/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/zip/zip-3.0-12.tar.xz
+2015/09/10 12:23:33 Downloaded E:\winjdk8\cygwin_packages/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/zlib/zlib0/zlib0-1.2.8-3.tar.xz
+2015/09/10 12:23:37 Extracting from file://E:\winjdk8\cygwin_packages/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/_autorebase/_autorebase-001002-1.tar.xz
+2015/09/10 12:23:37 Extracting from file://E:\winjdk8\cygwin_packages/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/_update-info-dir/_update-info-dir-00469-1.tar.bz2
+2015/09/10 12:23:37 Extracting from file://E:\winjdk8\cygwin_packages/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/alternatives/alternatives-1.3.30c-10.tar.bz2
+2015/09/10 12:23:37 Extracting from file://E:\winjdk8\cygwin_packages/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/base-cygwin/base-cygwin-3.8-1.tar.xz
+2015/09/10 12:23:37 Extracting from file://E:\winjdk8\cygwin_packages/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/base-files/base-files-4.2-3.tar.xz
+2015/09/10 12:23:37 Extracting from file://E:\winjdk8\cygwin_packages/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/bash/bash-4.3.42-3.tar.xz
+2015/09/10 12:23:38 Extracting from file://E:\winjdk8\cygwin_packages/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/binutils/binutils-2.25-1.tar.xz
+2015/09/10 12:23:39 Extracting from file://E:\winjdk8\cygwin_packages/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/bzip2/bzip2-1.0.6-2.tar.bz2
+2015/09/10 12:23:39 Extracting from file://E:\winjdk8\cygwin_packages/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/ca-certificates/ca-certificates-2.5-1.tar.xz
+2015/09/10 12:23:39 Extracting from file://E:\winjdk8\cygwin_packages/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/coreutils/coreutils-8.24-3.tar.xz
+2015/09/10 12:23:40 Extracting from file://E:\winjdk8\cygwin_packages/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/cpio/cpio-2.11-3.tar.xz
+2015/09/10 12:23:40 Extracting from file://E:\winjdk8\cygwin_packages/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/cygutils/cygutils-1.4.14-1.tar.bz2
+2015/09/10 12:23:40 Extracting from file://E:\winjdk8\cygwin_packages/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/cygwin/cygwin-2.2.1-1.tar.xz
+2015/09/10 12:23:41 Extracting from file://E:\winjdk8\cygwin_packages/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/dash/dash-0.5.8-3.tar.xz
+2015/09/10 12:23:41 Extracting from file://E:\winjdk8\cygwin_packages/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/editrights/editrights-1.03-1.tar.xz
+2015/09/10 12:23:41 Extracting from file://E:\winjdk8\cygwin_packages/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/file/file-5.24-1.tar.xz
+2015/09/10 12:23:41 Extracting from file://E:\winjdk8\cygwin_packages/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/findutils/findutils-4.5.12-1.tar.xz
+2015/09/10 12:23:41 Extracting from file://E:\winjdk8\cygwin_packages/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/gawk/gawk-4.1.3-1.tar.xz
+2015/09/10 12:23:41 Extracting from file://E:\winjdk8\cygwin_packages/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/getent/getent-2.18.90-4.tar.xz
+2015/09/10 12:23:41 Extracting from file://E:\winjdk8\cygwin_packages/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/grep/grep-2.21-2.tar.xz
+2015/09/10 12:23:41 Extracting from file://E:\winjdk8\cygwin_packages/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/groff/groff-1.22.3-1.tar.xz
+2015/09/10 12:23:43 Extracting from file://E:\winjdk8\cygwin_packages/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/gzip/gzip-1.6-1.tar.xz
+2015/09/10 12:23:43 Extracting from file://E:\winjdk8\cygwin_packages/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/hostname/hostname-3.13-1.tar.bz2
+2015/09/10 12:23:43 Extracting from file://E:\winjdk8\cygwin_packages/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/texinfo/info/info-6.0-1.tar.xz
+2015/09/10 12:23:43 Extracting from file://E:\winjdk8\cygwin_packages/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/ipc-utils/ipc-utils-1.0-2.tar.bz2
+2015/09/10 12:23:43 Extracting from file://E:\winjdk8\cygwin_packages/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/less/less-471-1.tar.xz
+2015/09/10 12:23:43 Extracting from file://E:\winjdk8\cygwin_packages/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/libargp/libargp-20110921-2.tar.bz2
+2015/09/10 12:23:43 Extracting from file://E:\winjdk8\cygwin_packages/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/attr/libattr1/libattr1-2.4.46-1.tar.bz2
+2015/09/10 12:23:43 Extracting from file://E:\winjdk8\cygwin_packages/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/util-linux/libblkid1/libblkid1-2.25.2-2.tar.xz
+2015/09/10 12:23:43 Extracting from file://E:\winjdk8\cygwin_packages/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/bzip2/libbz2_1/libbz2_1-1.0.6-2.tar.bz2
+2015/09/10 12:23:43 Extracting from file://E:\winjdk8\cygwin_packages/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/libffi/libffi6/libffi6-3.2.1-1.tar.xz
+2015/09/10 12:23:43 Extracting from file://E:\winjdk8\cygwin_packages/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/gcc/libgcc1/libgcc1-4.9.3-1.tar.xz
+2015/09/10 12:23:43 Extracting from file://E:\winjdk8\cygwin_packages/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/gdbm/libgdbm4/libgdbm4-1.11-1.tar.xz
+2015/09/10 12:23:43 Extracting from file://E:\winjdk8\cygwin_packages/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/gmp/libgmp10/libgmp10-6.0.0a-2.tar.xz
+2015/09/10 12:23:43 Extracting from file://E:\winjdk8\cygwin_packages/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/libiconv/libiconv-1.14-3.tar.xz
+2015/09/10 12:23:44 Extracting from file://E:\winjdk8\cygwin_packages/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/libiconv/libiconv2/libiconv2-1.14-3.tar.xz
+2015/09/10 12:23:44 Extracting from file://E:\winjdk8\cygwin_packages/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/gettext/libintl8/libintl8-0.19.4-1.tar.xz
+2015/09/10 12:23:44 Extracting from file://E:\winjdk8\cygwin_packages/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/xz/liblzma5/liblzma5-5.2.1-1.tar.xz
+2015/09/10 12:23:44 Extracting from file://E:\winjdk8\cygwin_packages/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/mpfr/libmpfr4/libmpfr4-3.1.3-1.tar.xz
+2015/09/10 12:23:44 Extracting from file://E:\winjdk8\cygwin_packages/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/ncurses/libncursesw10/libncursesw10-5.9-20150530-1.tar.xz
+2015/09/10 12:23:44 Extracting from file://E:\winjdk8\cygwin_packages/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/openssl/libopenssl100/libopenssl100-1.0.2d-1.tar.xz
+2015/09/10 12:23:44 Extracting from file://E:\winjdk8\cygwin_packages/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/p11-kit/libp11-kit0/libp11-kit0-0.22.1-1.tar.xz
+2015/09/10 12:23:44 Extracting from file://E:\winjdk8\cygwin_packages/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/pcre/libpcre1/libpcre1-8.37-2.tar.xz
+2015/09/10 12:23:44 Extracting from file://E:\winjdk8\cygwin_packages/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/libpipeline/libpipeline1/libpipeline1-1.4.0-1.tar.xz
+2015/09/10 12:23:44 Extracting from file://E:\winjdk8\cygwin_packages/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/readline/libreadline7/libreadline7-6.3.8-1.tar.xz
+2015/09/10 12:23:44 Extracting from file://E:\winjdk8\cygwin_packages/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/libsigsegv/libsigsegv2/libsigsegv2-2.10-2.tar.xz
+2015/09/10 12:23:44 Extracting from file://E:\winjdk8\cygwin_packages/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/util-linux/libsmartcols1/libsmartcols1-2.25.2-2.tar.xz
+2015/09/10 12:23:44 Extracting from file://E:\winjdk8\cygwin_packages/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/gcc/libstdc++6/libstdc++6-4.9.3-1.tar.xz
+2015/09/10 12:23:44 Extracting from file://E:\winjdk8\cygwin_packages/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/libtasn1/libtasn1_6/libtasn1_6-4.5-1.tar.xz
+2015/09/10 12:23:44 Extracting from file://E:\winjdk8\cygwin_packages/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/util-linux/libuuid1/libuuid1-2.25.2-2.tar.xz
+2015/09/10 12:23:44 Extracting from file://E:\winjdk8\cygwin_packages/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/login/login-1.11-1.tar.xz
+2015/09/10 12:23:44 Extracting from file://E:\winjdk8\cygwin_packages/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/lynx/lynx-2.8.7-2.tar.bz2
+2015/09/10 12:23:45 Extracting from file://E:\winjdk8\cygwin_packages/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/m4/m4-1.4.17-2.tar.xz
+2015/09/10 12:23:45 Extracting from file://E:\winjdk8\cygwin_packages/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/man-db/man-db-2.7.1-1.tar.xz
+2015/09/10 12:23:45 Extracting from file://E:\winjdk8\cygwin_packages/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/mintty/mintty-2.1.5-0.tar.xz
+2015/09/10 12:23:46 Extracting from file://E:\winjdk8\cygwin_packages/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/openssl/openssl-1.0.2d-1.tar.xz
+2015/09/10 12:23:46 Extracting from file://E:\winjdk8\cygwin_packages/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/p11-kit/p11-kit-0.22.1-1.tar.xz
+2015/09/10 12:23:46 Extracting from file://E:\winjdk8\cygwin_packages/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/p11-kit/p11-kit-trust/p11-kit-trust-0.22.1-1.tar.xz
+2015/09/10 12:23:46 Extracting from file://E:\winjdk8\cygwin_packages/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/popt/popt-1.16-1.tar.xz
+2015/09/10 12:23:46 Extracting from file://E:\winjdk8\cygwin_packages/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/procps/procps-3.2.8-3.tar.xz
+2015/09/10 12:23:46 Extracting from file://E:\winjdk8\cygwin_packages/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/rebase/rebase-4.4.1-1.tar.bz2
+2015/09/10 12:23:46 Extracting from file://E:\winjdk8\cygwin_packages/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/run/run-1.3.4-2.tar.xz
+2015/09/10 12:23:46 Extracting from file://E:\winjdk8\cygwin_packages/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/sed/sed-4.2.2-3.tar.bz2
+2015/09/10 12:23:46 Extracting from file://E:\winjdk8\cygwin_packages/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/tar/tar-1.28-1.tar.xz
+2015/09/10 12:23:47 Extracting from file://E:\winjdk8\cygwin_packages/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/ncurses/terminfo/terminfo-5.9-20150530-1.tar.xz
+2015/09/10 12:23:47 Extracting from file://E:\winjdk8\cygwin_packages/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/tzcode/tzcode-2015f-1.tar.xz
+2015/09/10 12:23:50 Extracting from file://E:\winjdk8\cygwin_packages/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/unzip/unzip-6.0-14.tar.xz
+2015/09/10 12:23:50 Extracting from file://E:\winjdk8\cygwin_packages/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/util-linux/util-linux-2.25.2-2.tar.xz
+2015/09/10 12:23:50 Extracting from file://E:\winjdk8\cygwin_packages/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/vim/vim-minimal/vim-minimal-7.4.838-1.tar.xz
+2015/09/10 12:23:50 Extracting from file://E:\winjdk8\cygwin_packages/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/which/which-2.20-2.tar.bz2
+2015/09/10 12:23:50 Extracting from file://E:\winjdk8\cygwin_packages/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/xz/xz-5.2.1-1.tar.xz
+2015/09/10 12:23:50 Extracting from file://E:\winjdk8\cygwin_packages/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/zip/zip-3.0-12.tar.xz
+2015/09/10 12:23:50 Extracting from file://E:\winjdk8\cygwin_packages/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/zlib/zlib0/zlib0-1.2.8-3.tar.xz
+2015/09/10 12:23:50 Changing gid back to original
+2015/09/10 12:23:50 running: C:\cygwin64\bin\dash.exe "/etc/postinstall/0p_000_autorebase.dash"
+2015/09/10 12:24:59 running: C:\cygwin64\bin\bash.exe --norc --noprofile "/etc/postinstall/000-cygwin-post-install.sh"
+2015/09/10 12:24:59 running: C:\cygwin64\bin\bash.exe --norc --noprofile "/etc/postinstall/update-info-dir.sh"
+2015/09/10 12:25:00 running: C:\cygwin64\bin\bash.exe --norc --noprofile "/etc/postinstall/coreutils.sh"
+2015/09/10 12:25:00 running: C:\cygwin64\bin\bash.exe --norc --noprofile "/etc/postinstall/bash.sh"
+2015/09/10 12:25:00 running: C:\cygwin64\bin\bash.exe --norc --noprofile "/etc/postinstall/base-files-mketc.sh"
+2015/09/10 12:25:01 running: C:\cygwin64\bin\bash.exe --norc --noprofile "/etc/postinstall/base-files-profile.sh"
+2015/09/10 12:25:01 running: C:\cygwin64\bin\bash.exe --norc --noprofile "/etc/postinstall/ca-certificates.sh"
+2015/09/10 12:25:03 running: C:\cygwin64\bin\bash.exe --norc --noprofile "/etc/postinstall/lynx.sh"
+2015/09/10 12:25:03 running: C:\cygwin64\bin\bash.exe --norc --noprofile "/etc/postinstall/man-db.sh"
+2015/09/10 12:25:03 running: C:\cygwin64\bin\bash.exe --norc --noprofile "/etc/postinstall/mintty.sh"
+2015/09/10 12:25:03 Changing gid to Administrators
+2015/09/10 12:26:09 note: Installation Complete
+2015/09/10 12:26:09 Ending cygwin install
+2015/09/10 12:26:18 Starting cygwin install, version 2.871
+2015/09/10 12:26:18 User has backup/restore rights
+2015/09/10 12:26:18 Current Directory: E:\winjdk8\cygwin_packages
+2015/09/10 12:26:18 Could not open service McShield for query, start and stop. McAfee may not be installed, or we don't have access.
+2015/09/10 12:26:22 source: network install
+2015/09/10 12:26:26 root: C:\cygwin64 system
+2015/09/10 12:26:27 Selected local directory: E:\winjdk8\cygwin_packages
+2015/09/10 12:26:28 net: Direct
+2015/09/10 12:26:30 site: http://mirrors.kernel.org/sourceware/cygwin/
+2015/09/10 12:28:43 Adding required dependency libcrypt0: Selecting version 1.1-1 for installation.
+2015/09/10 12:28:43 Adding required dependency libguile17: Selecting version 1.8.8-1 for installation.
+2015/09/10 12:28:43 Adding required dependency libltdl7: Selecting version 2.4.6-1 for installation.
+2015/09/10 12:28:43 Downloaded E:\winjdk8\cygwin_packages/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/crypt/libcrypt0/libcrypt0-1.1-1.tar.bz2
+2015/09/10 12:28:47 Downloaded E:\winjdk8\cygwin_packages/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/guile/libguile17/libguile17-1.8.8-1.tar.bz2
+2015/09/10 12:28:48 Downloaded E:\winjdk8\cygwin_packages/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/libtool/libltdl7/libltdl7-2.4.6-1.tar.xz
+2015/09/10 12:28:51 Downloaded E:\winjdk8\cygwin_packages/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/make/make-4.1-1.tar.xz
+2015/09/10 12:28:54 Extracting from file://E:\winjdk8\cygwin_packages/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/crypt/libcrypt0/libcrypt0-1.1-1.tar.bz2
+2015/09/10 12:28:54 Extracting from file://E:\winjdk8\cygwin_packages/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/guile/libguile17/libguile17-1.8.8-1.tar.bz2
+2015/09/10 12:28:54 Extracting from file://E:\winjdk8\cygwin_packages/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/libtool/libltdl7/libltdl7-2.4.6-1.tar.xz
+2015/09/10 12:28:54 Extracting from file://E:\winjdk8\cygwin_packages/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/make/make-4.1-1.tar.xz
+2015/09/10 12:28:55 Changing gid back to original
+2015/09/10 12:28:55 running: C:\cygwin64\bin\dash.exe "/etc/postinstall/0p_000_autorebase.dash"
+2015/09/10 12:29:33 Changing gid to Administrators
+2015/09/10 12:30:05 note: Installation Complete
+2015/09/10 12:30:05 Ending cygwin install
+2015/09/10 12:41:31 Starting cygwin install, version 2.871
+2015/09/10 12:41:31 User has backup/restore rights
+2015/09/10 12:41:31 Current Directory: E:\winjdk8\cygwin_packages
+2015/09/10 12:41:31 Could not open service McShield for query, start and stop. McAfee may not be installed, or we don't have access.
+2015/09/10 12:41:36 source: network install
+2015/09/10 12:41:38 root: C:\cygwin64 system
+2015/09/10 12:41:38 Selected local directory: E:\winjdk8\cygwin_packages
+2015/09/10 12:41:39 net: Direct
+2015/09/10 12:41:41 site: http://mirrors.kernel.org/sourceware/cygwin/
+2015/09/10 12:42:48 Changing gid back to original
+2015/09/10 12:42:48 running: C:\cygwin64\bin\dash.exe "/etc/postinstall/0p_000_autorebase.dash"
+2015/09/10 12:42:56 note: Nothing needed to be installed
+2015/09/10 12:42:56 Ending cygwin install
+2015/09/10 12:43:06 Starting cygwin install, version 2.871
+2015/09/10 12:43:06 User has backup/restore rights
+2015/09/10 12:43:06 Current Directory: E:\winjdk8\cygwin_packages
+2015/09/10 12:43:06 Could not open service McShield for query, start and stop. McAfee may not be installed, or we don't have access.
+2015/09/10 12:43:09 source: network install
+2015/09/10 12:43:11 root: C:\cygwin64 system
+2015/09/10 12:43:12 Selected local directory: E:\winjdk8\cygwin_packages
+2015/09/10 12:43:13 net: Direct
+2015/09/10 12:43:25 site: http://mirrors.kernel.org/sourceware/cygwin/
+2015/09/10 12:43:54 Downloaded E:\winjdk8\cygwin_packages/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/diffutils/diffutils-3.3-3.tar.xz
+2015/09/10 12:43:57 Extracting from file://E:\winjdk8\cygwin_packages/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/diffutils/diffutils-3.3-3.tar.xz
+2015/09/10 12:43:58 Changing gid back to original
+2015/09/10 12:43:58 running: C:\cygwin64\bin\dash.exe "/etc/postinstall/0p_000_autorebase.dash"
+2015/09/10 12:44:35 Changing gid to Administrators
+2015/09/10 12:44:38 note: Installation Complete
+2015/09/10 12:44:38 Ending cygwin install

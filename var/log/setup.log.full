@@ -1,0 +1,170 @@
+2015/09/10 12:43:06 Starting cygwin install, version 2.871
+2015/09/10 12:43:06 User has backup/restore rights
+2015/09/10 12:43:06 Current Directory: E:\winjdk8\cygwin_packages
+2015/09/10 12:43:06 Could not open service McShield for query, start and stop. McAfee may not be installed, or we don't have access.
+2015/09/10 12:43:09 source: network install
+2015/09/10 12:43:11 root: C:\cygwin64 system
+2015/09/10 12:43:12 Selected local directory: E:\winjdk8\cygwin_packages
+2015/09/10 12:43:13 net: Direct
+Loaded cached mirror list
+get_url_to_membuf http://cygwin.com/mirrors.lst
+getUrlToStream http://cygwin.com/mirrors.lst
+2015/09/10 12:43:25 site: http://mirrors.kernel.org/sourceware/cygwin/
+get_url_to_membuf http://mirrors.kernel.org/sourceware/cygwin/x86_64/setup.bz2
+getUrlToStream http://mirrors.kernel.org/sourceware/cygwin/x86_64/setup.bz2
+get_url_to_membuf http://mirrors.kernel.org/sourceware/cygwin/x86_64/setup.bz2.sig
+getUrlToStream http://mirrors.kernel.org/sourceware/cygwin/x86_64/setup.bz2.sig
+.ini setup_version is 2.871, our setup_version is 2.871
+get_url_to_file http://mirrors.kernel.org/sourceware/cygwin//x86_64/release/diffutils/diffutils-3.3-3.tar.xz E:\winjdk8\cygwin_packages/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/diffutils/diffutils-3.3-3.tar.xz.tmp
+2015/09/10 12:43:54 Downloaded E:\winjdk8\cygwin_packages/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/diffutils/diffutils-3.3-3.tar.xz
+Checking SHA512 for file://E:\winjdk8\cygwin_packages/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/diffutils/diffutils-3.3-3.tar.xz
+SHA512 verified OK: file://E:\winjdk8\cygwin_packages/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/diffutils/diffutils-3.3-3.tar.xz 14743c4ea9519e02125981651a07e940839962a114928896e0f47d1eed156e62d034e6c83548eee2d33a2c0a76516e0e02c4c2d09c314a3b87931bc4347985a2
+compress_xz::bid_xz: success: 48
+compress_xz::bid_xz: success: 48
+2015/09/10 12:43:57 Extracting from file://E:\winjdk8\cygwin_packages/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/diffutils/diffutils-3.3-3.tar.xz
+Installing file cygfile:///usr/
+Installing file cygfile:///usr/bin/
+Installing file cygfile:///usr/bin/cmp.exe
+Installing file cygfile:///usr/bin/diff.exe
+Installing file cygfile:///usr/bin/diff3.exe
+Installing file cygfile:///usr/bin/sdiff.exe
+Installing file cygfile:///usr/lib/
+Installing file cygfile:///usr/share/
+Installing file cygfile:///usr/share/doc/
+Installing file cygfile:///usr/share/doc/Cygwin/
+Installing file cygfile:///usr/share/doc/Cygwin/diffutils.README
+Installing file cygfile:///usr/share/doc/diffutils/
+Installing file cygfile:///usr/share/doc/diffutils/AUTHORS
+Installing file cygfile:///usr/share/doc/diffutils/ChangeLog
+Installing file cygfile:///usr/share/doc/diffutils/COPYING
+Installing file cygfile:///usr/share/doc/diffutils/NEWS
+Installing file cygfile:///usr/share/doc/diffutils/README
+Installing file cygfile:///usr/share/doc/diffutils/THANKS
+Installing file cygfile:///usr/share/doc/diffutils/TODO
+Installing file cygfile:///usr/share/info/
+Installing file cygfile:///usr/share/info/diffutils.info.gz
+Installing file cygfile:///usr/share/locale/
+Installing file cygfile:///usr/share/locale/ca/
+Installing file cygfile:///usr/share/locale/ca/LC_MESSAGES/
+Installing file cygfile:///usr/share/locale/ca/LC_MESSAGES/diffutils.mo
+Installing file cygfile:///usr/share/locale/cs/
+Installing file cygfile:///usr/share/locale/cs/LC_MESSAGES/
+Installing file cygfile:///usr/share/locale/cs/LC_MESSAGES/diffutils.mo
+Installing file cygfile:///usr/share/locale/da/
+Installing file cygfile:///usr/share/locale/da/LC_MESSAGES/
+Installing file cygfile:///usr/share/locale/da/LC_MESSAGES/diffutils.mo
+Installing file cygfile:///usr/share/locale/de/
+Installing file cygfile:///usr/share/locale/de/LC_MESSAGES/
+Installing file cygfile:///usr/share/locale/de/LC_MESSAGES/diffutils.mo
+Installing file cygfile:///usr/share/locale/el/
+Installing file cygfile:///usr/share/locale/el/LC_MESSAGES/
+Installing file cygfile:///usr/share/locale/el/LC_MESSAGES/diffutils.mo
+Installing file cygfile:///usr/share/locale/eo/
+Installing file cygfile:///usr/share/locale/eo/LC_MESSAGES/
+Installing file cygfile:///usr/share/locale/eo/LC_MESSAGES/diffutils.mo
+Installing file cygfile:///usr/share/locale/es/
+Installing file cygfile:///usr/share/locale/es/LC_MESSAGES/
+Installing file cygfile:///usr/share/locale/es/LC_MESSAGES/diffutils.mo
+Installing file cygfile:///usr/share/locale/fi/
+Installing file cygfile:///usr/share/locale/fi/LC_MESSAGES/
+Installing file cygfile:///usr/share/locale/fi/LC_MESSAGES/diffutils.mo
+Installing file cygfile:///usr/share/locale/fr/
+Installing file cygfile:///usr/share/locale/fr/LC_MESSAGES/
+Installing file cygfile:///usr/share/locale/fr/LC_MESSAGES/diffutils.mo
+Installing file cygfile:///usr/share/locale/ga/
+Installing file cygfile:///usr/share/locale/ga/LC_MESSAGES/
+Installing file cygfile:///usr/share/locale/ga/LC_MESSAGES/diffutils.mo
+Installing file cygfile:///usr/share/locale/gl/
+Installing file cygfile:///usr/share/locale/gl/LC_MESSAGES/
+Installing file cygfile:///usr/share/locale/gl/LC_MESSAGES/diffutils.mo
+Installing file cygfile:///usr/share/locale/he/
+Installing file cygfile:///usr/share/locale/he/LC_MESSAGES/
+Installing file cygfile:///usr/share/locale/he/LC_MESSAGES/diffutils.mo
+Installing file cygfile:///usr/share/locale/hr/
+Installing file cygfile:///usr/share/locale/hr/LC_MESSAGES/
+Installing file cygfile:///usr/share/locale/hr/LC_MESSAGES/diffutils.mo
+Installing file cygfile:///usr/share/locale/hu/
+Installing file cygfile:///usr/share/locale/hu/LC_MESSAGES/
+Installing file cygfile:///usr/share/locale/hu/LC_MESSAGES/diffutils.mo
+Installing file cygfile:///usr/share/locale/id/
+Installing file cygfile:///usr/share/locale/id/LC_MESSAGES/
+Installing file cygfile:///usr/share/locale/id/LC_MESSAGES/diffutils.mo
+Installing file cygfile:///usr/share/locale/it/
+Installing file cygfile:///usr/share/locale/it/LC_MESSAGES/
+Installing file cygfile:///usr/share/locale/it/LC_MESSAGES/diffutils.mo
+Installing file cygfile:///usr/share/locale/ja/
+Installing file cygfile:///usr/share/locale/ja/LC_MESSAGES/
+Installing file cygfile:///usr/share/locale/ja/LC_MESSAGES/diffutils.mo
+Installing file cygfile:///usr/share/locale/lv/
+Installing file cygfile:///usr/share/locale/lv/LC_MESSAGES/
+Installing file cygfile:///usr/share/locale/lv/LC_MESSAGES/diffutils.mo
+Installing file cygfile:///usr/share/locale/ms/
+Installing file cygfile:///usr/share/locale/ms/LC_MESSAGES/
+Installing file cygfile:///usr/share/locale/ms/LC_MESSAGES/diffutils.mo
+Installing file cygfile:///usr/share/locale/nl/
+Installing file cygfile:///usr/share/locale/nl/LC_MESSAGES/
+Installing file cygfile:///usr/share/locale/nl/LC_MESSAGES/diffutils.mo
+Installing file cygfile:///usr/share/locale/pl/
+Installing file cygfile:///usr/share/locale/pl/LC_MESSAGES/
+Installing file cygfile:///usr/share/locale/pl/LC_MESSAGES/diffutils.mo
+Installing file cygfile:///usr/share/locale/pt_BR/
+Installing file cygfile:///usr/share/locale/pt_BR/LC_MESSAGES/
+Installing file cygfile:///usr/share/locale/pt_BR/LC_MESSAGES/diffutils.mo
+Installing file cygfile:///usr/share/locale/ro/
+Installing file cygfile:///usr/share/locale/ro/LC_MESSAGES/
+Installing file cygfile:///usr/share/locale/ro/LC_MESSAGES/diffutils.mo
+Installing file cygfile:///usr/share/locale/ru/
+Installing file cygfile:///usr/share/locale/ru/LC_MESSAGES/
+Installing file cygfile:///usr/share/locale/ru/LC_MESSAGES/diffutils.mo
+Installing file cygfile:///usr/share/locale/sr/
+Installing file cygfile:///usr/share/locale/sr/LC_MESSAGES/
+Installing file cygfile:///usr/share/locale/sr/LC_MESSAGES/diffutils.mo
+Installing file cygfile:///usr/share/locale/sv/
+Installing file cygfile:///usr/share/locale/sv/LC_MESSAGES/
+Installing file cygfile:///usr/share/locale/sv/LC_MESSAGES/diffutils.mo
+Installing file cygfile:///usr/share/locale/tr/
+Installing file cygfile:///usr/share/locale/tr/LC_MESSAGES/
+Installing file cygfile:///usr/share/locale/tr/LC_MESSAGES/diffutils.mo
+Installing file cygfile:///usr/share/locale/uk/
+Installing file cygfile:///usr/share/locale/uk/LC_MESSAGES/
+Installing file cygfile:///usr/share/locale/uk/LC_MESSAGES/diffutils.mo
+Installing file cygfile:///usr/share/locale/vi/
+Installing file cygfile:///usr/share/locale/vi/LC_MESSAGES/
+Installing file cygfile:///usr/share/locale/vi/LC_MESSAGES/diffutils.mo
+Installing file cygfile:///usr/share/locale/zh_CN/
+Installing file cygfile:///usr/share/locale/zh_CN/LC_MESSAGES/
+Installing file cygfile:///usr/share/locale/zh_CN/LC_MESSAGES/diffutils.mo
+Installing file cygfile:///usr/share/locale/zh_TW/
+Installing file cygfile:///usr/share/locale/zh_TW/LC_MESSAGES/
+Installing file cygfile:///usr/share/locale/zh_TW/LC_MESSAGES/diffutils.mo
+Installing file cygfile:///usr/share/man/
+Installing file cygfile:///usr/share/man/man1/
+Installing file cygfile:///usr/share/man/man1/cmp.1.gz
+Installing file cygfile:///usr/share/man/man1/diff.1.gz
+Installing file cygfile:///usr/share/man/man1/diff3.1.gz
+Installing file cygfile:///usr/share/man/man1/sdiff.1.gz
+2015/09/10 12:43:58 Changing gid back to original
+Visited: 79 nodes out of 6194 while creating dependency order.
+Dependency order of packages: dash _autorebase base-cygwin cygwin _update-info-dir libiconv2 libintl8 alternatives libattr1 libgmp10 libgcc1 libstdc++6 terminfo libncursesw10 libreadline7 tzcode coreutils bash findutils sed base-files zlib0 binutils libbz2_1 bzip2 libffi6 libp11-kit0 libtasn1_6 p11-kit p11-kit-trust ca-certificates gzip liblzma5 xz tar cpio popt libpopt0 cygutils libsigsegv2 diffutils editrights file libmpfr4 gawk libargp getent libpcre1 grep groff hostname info ipc-utils less libuuid1 libblkid1 libcrypt0 libgdbm4 libltdl7 libguile17 libiconv libopenssl100 libpipeline1 libsmartcols1 login lynx m4 make util-linux man-db mintty openssl procps rebase run unzip vim-minimal which zip 
+2015/09/10 12:43:58 running: C:\cygwin64\bin\dash.exe "/etc/postinstall/0p_000_autorebase.dash"
+cat: /var/lib/rebase/dynpath.d/*: No such file or directory
+Updating package information in /var/cache/rebase/rebase_pkg.
+	from /etc/setup/diffutils.lst.gz...
+Updating rebase information for installed dynamic objects in /var/cache/rebase/rebase_lst.
+Updating rebase information for installed executables in /var/cache/rebase/rebase_exe.
+removing /var/cache/rebase/rebase_dyn
+creating empty /var/cache/rebase/rebase_dyn
+Updating rebase information for user-defined dynamic objects /var/cache/rebase/rebase_user.
+Updating rebase information for user-defined executables /var/cache/rebase/rebase_user_exe.
+Rebasing with list /var/cache/rebase/rebase_all, built from /var/cache/rebase/rebase_lst /var/cache/rebase/rebase_dyn /var/cache/rebase/rebase_user.
+
+The following DLLs couldn't be rebased because they were in use:
+  /usr/bin/cygreadline7.dll
+  /usr/bin/cygncursesw-10.dll
+  /usr/bin/cygintl-8.dll
+  /usr/bin/cygiconv-2.dll
+2015/09/10 12:44:35 Changing gid to Administrators
+Program directory for program link: C:\ProgramData\Microsoft\Windows\Start Menu\Programs
+Desktop directory for desktop link: C:\Users\Public\Desktop
+2015/09/10 12:44:38 note: Installation Complete
+2015/09/10 12:44:38 Ending cygwin install
